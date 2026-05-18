@@ -1,16 +1,31 @@
-## Hi there 👋
+ Hi, I'm Grecey 👋
 
-<!--
-**GreceyPatel/GreceyPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git & GitHub
+
+⚡ Interested in:
+
+- Artificial Intelligence
+- Computer Engineering
+- Open Source
+
+🌱 Current Goal:
+To improve my coding skills and contribute to beginner-friendly projects.
+
+Skills
+
+- Python
+- HTML
+- CSS
+- GitHub Basics
+
+
+Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/grecey-patel-17062a390?            utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
